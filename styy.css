@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+    
+    font-family: 'georgia',sans-serif;
+    box-sizing: border-box;
+}
+body{
+    background-image:"bg.jpg" ;
+}
+
+.card-body{
+    background: linear-gradient(135deg,#00feba,#5b548a);
+
+}
